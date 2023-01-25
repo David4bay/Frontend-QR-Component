@@ -28,7 +28,7 @@ I took time to screenshot how the Desktop and Mobile QR-Code finalized design lo
 The solution URLs are below.
 
 - Solution URL: https://github.com/David4bay/Frontend-QR-Component
-- Live Site URL: 
+- Live Site URL: https://splendid-tiramisu-ae2123.netlify.app/
 
 ## My process
 
