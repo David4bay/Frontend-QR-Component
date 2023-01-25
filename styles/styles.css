@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -14,9 +15,48 @@ html, body {
   min-height: 100vh;
 }
 
+body {
+  background: rgb(213, 225, 239);
+  font-family: "Titillium Web", sans-serif;
+}
+
 main {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+}
+main article.qr-box {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #fff;
+  width: 296px;
+  padding: 0.35rem 0.7rem 0.7rem 0.7rem;
+  border-radius: 15px;
+}
+main article.qr-box figure.qr-image-container {
+  margin: 0.5rem auto;
+}
+main article.qr-box img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+  border-radius: 15px;
+}
+main article.qr-box h3.qr-title {
+  color: rgb(39, 54, 73);
+  margin: auto;
+  width: 90%;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+main article.qr-box p.qr-description {
+  color: rgb(164, 164, 173);
+  margin: 0.5rem;
+  font-weight: lighter;
+  font-size: 0.1rem;
 }
 
 div.attribution {
@@ -25,4 +65,9 @@ div.attribution {
 }
 div.attribution a {
   color: hsl(228deg, 45%, 44%);
+}
+
+footer {
+  width: 100%;
+  background-color: #fff;
 }/*# sourceMappingURL=styles.css.map */
