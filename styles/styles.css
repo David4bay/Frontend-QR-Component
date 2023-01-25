@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  min-height: 100vh;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+div.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+div.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}/*# sourceMappingURL=styles.css.map */
