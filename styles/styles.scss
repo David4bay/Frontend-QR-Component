@@ -13,7 +13,7 @@
 }
 
 html, body {
-    min-height: 100vh;
+    height: 100vh;
 }
 
 body {
@@ -26,14 +26,14 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 2vh);
+    min-height: 100vh;
 
     article.qr-box {
         display: flex;
         flex-direction: column;
         text-align: center;
         background-color: #fff;
-
+        box-shadow: 0px 0px 15px 10px rgba(213, 225, 239, 0.5);;
         width: 296px;
         padding: 0.35rem 0.7rem 0.7rem 0.7rem;
         border-radius: 15px;
@@ -68,16 +68,25 @@ main {
 div {
 
     &.attribution {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        position: absolute;
+        bottom: 0;
+        background-color: #fff;
         font-size: 11px;
         text-align: center;
 
         & a {
             color: hsl(228, 45%, 44%);
+            padding-left: 0.4em;
         }
     }
 }
 
 footer {
+    display: flex;
+    flex-direction: row;
     width: 100%;
-    background-color: #fff;
 }
