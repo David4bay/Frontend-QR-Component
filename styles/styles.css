@@ -12,8 +12,7 @@
 }
 
 html, body {
-  height: 100vh;
-  overflow: hidden;
+  min-height: 100vh;
 }
 
 body {
@@ -63,11 +62,11 @@ main article.qr-box p.qr-description {
 
 div.attribution {
   display: flex;
+  flex-direction: column;
+  align-self: flex-end;
   width: 100%;
   flex-direction: row;
   justify-content: center;
-  position: absolute;
-  bottom: 0;
   background-color: #fff;
   font-size: 11px;
   text-align: center;
