@@ -33,7 +33,7 @@ main article.qr-box {
   flex-direction: column;
   text-align: center;
   background-color: #fff;
-  width: 296px;
+  max-width: 296px;
   padding: 0.35rem 0.7rem 0.7rem 0.7rem;
   border-radius: 15px;
 }
@@ -46,18 +46,18 @@ main article.qr-box img {
   width: 100%;
   border-radius: 15px;
 }
-main article.qr-box h3.qr-title {
+main article.qr-box h1.qr-title {
   color: rgb(39, 54, 73);
   margin: auto;
   width: 90%;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 30px;
 }
 main article.qr-box p.qr-description {
   color: rgb(164, 164, 173);
   margin: 0.5rem;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 16px;
 }
 
 div.attribution {
