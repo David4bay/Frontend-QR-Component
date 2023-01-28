@@ -51,13 +51,13 @@ main article.qr-box h3.qr-title {
   margin: auto;
   width: 90%;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 16px;
 }
 main article.qr-box p.qr-description {
   color: rgb(164, 164, 173);
   margin: 0.5rem;
   font-weight: lighter;
-  font-size: 0.1rem;
+  font-size: 8px;
 }
 
 div.attribution {
