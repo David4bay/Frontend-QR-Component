@@ -21,7 +21,7 @@ This was great to do, as I usually am unsure of my skills as a beginner. I gave 
 
 located in ![screenshot](https://github.com/David4bay/Frontend-QR-Component/blob/master/screenshots/Screenshot.PNG)
 
-I took time to screenshot how the Desktop and Mobile QR-Code finalized design looks like.
+I took time to screenshot how the Desktop finalized design looks like.
 
 ### Links
 
