@@ -27,8 +27,8 @@ I took time to screenshot how the Desktop finalized design looks like.
 
 The solution URLs are below.
 
-- Solution URL: https://github.com/David4bay/Frontend-QR-Component
-- Live Site URL: https://splendid-tiramisu-ae2123.netlify.app/
+- Solution URL: <https://github.com/David4bay/Frontend-QR-Component>
+- Live Site URL: <https://splendid-tiramisu-ae2123.netlify.app/>
 
 ## My process
 
@@ -48,13 +48,12 @@ Footers are sometimes challenging to implement as there are more ways to impleme
 
 ### Useful resources
 
-- I did make use of google fonts to get a font that closely matches the design mock-up. https://fonts.google.com/specimen/Outfit
+- I did make use of google fonts to get a font that closely matches the design mock-up. <https://fonts.google.com/specimen/Outfit>
 
-- I also used https://validator.w3.org/#validate_by_input to validate my html.
+- I also used <https://validator.w3.org/#validate_by_input> to validate my html.
 
 ## Author
 
 - Website - davidbayode.medium.com | davidbay.hashnode.dev
-- Frontend Mentor - https://www.frontendmentor.io/profile/David4bay
-- Twitter - https://twitter.com/Davidbay01
-
+- Frontend Mentor - <https://www.frontendmentor.io/profile/David4bay>
+- Twitter - <https://twitter.com/Davidbay01>
